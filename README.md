@@ -42,10 +42,12 @@ Impact Analytics: Converts food savings into carbon footprint and water conserva
 ## 🔗 Architecture Links  
 
 - **High-Level System Architecture**  
-  [View on Figma](https://www.figma.com/board/z2AkKQjYMUs31oEC5rozOb/Untitled?node-id=0-1&t=J1Tyl751bynsVsiY-1)  
+  [View on Figma](https://app.eraser.io/workspace/chUo13DsyRugLlYd79JY?origin=share)  
 
 - **Data Processing Phase**  
-  [View on Figma](https://www.figma.com/board/z2AkKQjYMUs31oEC5rozOb/Untitled?node-id=0-1&t=J1Tyl751bynsVsiY-1)  
+  [View on Figma](https://www.figma.com/board/z2AkKQjYMUs31oEC5rozOb/Untitled?node-id=0-1&t=J1Tyl751bynsVsiY-1)
+
+
 
 
 
