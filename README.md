@@ -33,8 +33,10 @@ Impact Analytics: Converts food savings into carbon footprint and water conserva
 - **College Administration**: Multi-canteen analytics, sustainability scorecards
 
 ## 🏗️ System Architecture
-<img width="1053" height="482" alt="image" src="https://github.com/user-attachments/assets/db12386d-b61b-47e7-b637-ec5982ff78ab" />
+
 <img width="443" height="458" alt="image" src="https://github.com/user-attachments/assets/e62bd013-c206-4b54-bbfd-6827e5e6eae6" />
+<img width="788" height="441" alt="image" src="https://github.com/user-attachments/assets/dfaa5894-1894-40db-afd4-0b7441165304" />
+
 
 
 
