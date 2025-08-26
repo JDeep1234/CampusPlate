@@ -11,6 +11,8 @@
 
 **Campus Plate Forward** is an AI-powered Progressive Web App that revolutionizes food waste management in educational institutions by creating a comprehensive ecosystem connecting students, canteen administrators, NGOs, and sustainability partners.
 
+
+
 ## 🌟 Key Features
 
 ### 🎯 Three-Phase Approach
