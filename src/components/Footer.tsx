@@ -104,7 +104,7 @@ const Footer = () => {
               <li className="flex items-start gap-3">
                 <MapPin size={20} className="flex-shrink-0 mt-1" />
                 <span className="text-white/80">
-                  123 Innovation Drive, Tech Park, Bangalore, 560001
+                RVCE
                 </span>
               </li>
               <li className="flex items-center gap-3">
@@ -113,7 +113,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center gap-3">
                 <Mail size={20} />
-                <span className="text-white/80">contact@auxia.com</span>
+                <span className="text-white/80">contact@campusplate.com</span>
               </li>
             </ul>
           </div>
@@ -121,7 +121,7 @@ const Footer = () => {
 
         <div className="border-t border-white/20 mt-12 pt-6 flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-white/60">
-            &copy; {new Date().getFullYear()} Auxia. All rights reserved.
+            &copy; {new Date().getFullYear()} All rights reserved.
           </p>
           <div className="flex gap-4 mt-4 md:mt-0">
             <Link to="/privacy" className="text-sm text-white/60 hover:text-white transition-colors">
